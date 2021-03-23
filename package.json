@@ -1,5 +1,5 @@
 {
-  "name": "NewAddIn",
+  "name": "newaddin",
   "version": "1.0.0",
   "description": "Description",
   "main": "index.js",
